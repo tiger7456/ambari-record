@@ -2,6 +2,7 @@
 
 <details>
 <summary>点击查看目录</summary>
+<br>
 
 1. :negative_squared_cross_mark: [Ambari编译](Post/Ambari编译.md)
 1. :negative_squared_cross_mark: [Ambari离线安装](Post/Ambari离线安装.md)
