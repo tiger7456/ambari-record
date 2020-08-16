@@ -1,5 +1,7 @@
 # ambari-record
 
+:tada: ambari学习记录~
+
 <details>
 <summary>点击查看目录</summary>
 <br>
