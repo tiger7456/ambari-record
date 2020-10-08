@@ -2,6 +2,8 @@
 
 :tada: ambari学习记录~
 
+备注：已校正的文章都已经解决@、[xxx]，{xxx}开头可以不用转义，#如果不在开头也可以不用转义的问题~
+
 <details>
 <summary>点击查看目录</summary>
 <br>
